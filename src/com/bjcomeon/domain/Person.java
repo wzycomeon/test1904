@@ -4,6 +4,7 @@ public class Person {
     private String id;
     private String name;
     private String location;
-    private String pro;
+    private String province;
+    private String phone;
 
 }
